@@ -1,0 +1,30 @@
+----------------------------
+Animal type: dog
+bow bow
+----------------------------
+Animal type: cat
+meow meow
+----------------------------
+Animal type: pig
+my price is 500000
+----------------------------
+Animal type: cat
+meow meow
+----------------------------
+Animal type: dog
+bow bow
+----------------------------
+Animal type: cat
+meow meow
+----------------------------
+Animal type: cat
+meow meow
+----------------------------
+Animal type: cat
+meow meow
+----------------------------
+Animal type: pig
+my price is 500000
+----------------------------
+Animal type: dog
+bow bow
